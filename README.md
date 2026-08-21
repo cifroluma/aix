@@ -36,3 +36,7 @@ Kotlin, Jetpack Compose, Room, DataStore, OkHttp, OpenRouter API.
 ## Лицензия
 
 MIT. См. [LICENSE](LICENSE).
+
+## О проекте
+
+Приложение собрано с активной помощью ИИ (ChatGPT) как личный инструмент, выложено на случай, если пригодится кому-то ещё.
